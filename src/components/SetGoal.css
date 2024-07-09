@@ -1,0 +1,31 @@
+.set-goal {
+    padding: 1rem;
+  }
+  
+  .set-goal h2 {
+    text-align: center;
+  }
+  
+  .input {
+    display: block;
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    width: 80%;
+    max-width: 400px;
+  }
+  
+  .button {
+    display: block;
+    margin: 1rem auto;
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: yellow;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: yellow;
+    color: black;
+  }
+  
